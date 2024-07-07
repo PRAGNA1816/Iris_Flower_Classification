@@ -1,6 +1,6 @@
 # Machine Learning Projects
 
-This repository contains iris flower classification project
+This repository contains iris flower classification project code file and its dataset(.csv format)
 
 ### Iris Flower Classification
 
